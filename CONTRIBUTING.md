@@ -21,3 +21,5 @@ After finishing your changes, commit the parts you want to change and submit a P
 ## Currrent Contributors
 
 Preston Lee ( prl43@nau.edu )
+
+Brock Heinz ( bch285@nau.edu )
